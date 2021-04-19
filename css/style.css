@@ -23,3 +23,29 @@ header{
     .evidenziato{
         background-color: yellow;
     }
+
+    table {
+        cellspacing="0"
+    }
+
+    thead {
+        background-color: #20a9e5;
+    }
+
+    .intestazione{
+        width: 500px;
+    }
+
+    .corpo{
+        background-color: #9dd3eb
+    }
+
+    .corpo-centrale{
+        background-color: #ffffff
+    }
+
+    .corpo-footer{
+        background-color: #9dd3eb
+    }
+
+

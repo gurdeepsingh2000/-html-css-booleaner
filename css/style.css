@@ -19,3 +19,7 @@ header{
     .Autore{
         color:#2aade6;
     }
+
+    .evidenziato{
+        background-color: yellow;
+    }

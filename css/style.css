@@ -12,10 +12,10 @@ header{
         position: absolute;
         bottom: 26px;
     }
-    .Scrittore{
+    .Scrittore,.Data{
         color: gray;
     }
 
     .Autore{
-        color: blue;
+        color:#2aade6;
     }

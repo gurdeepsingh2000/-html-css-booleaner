@@ -2,9 +2,13 @@ header{
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
-    background-size: 500px ;
-    height: 200px;
+    background-size: 550px ;
+    height: 140px;
     position: relative;
     }
 
- 
+    header img{
+        width: 300px;
+        position: absolute;
+        bottom: 26px;
+    }

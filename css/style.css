@@ -24,9 +24,6 @@ header{
         background-color: yellow;
     }
 
-    table {
-        cellspacing="0"
-    }
 
     thead {
         background-color: #20a9e5;
@@ -48,4 +45,8 @@ header{
         background-color: #9dd3eb
     }
 
+    .tetso-colorato{
+        background-color: yellow;
+    }
 
+    table cellspacing = "0"
